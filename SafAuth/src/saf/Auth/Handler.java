@@ -1,4 +1,4 @@
-package saf.AuthPlugin;
+package saf.Auth;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Location;

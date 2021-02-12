@@ -1,0 +1,8 @@
+name: SafAuth
+main: saf.Auth.Main
+version: 1.0
+api-version: 1.16
+commands:
+  teleportme:
+    description: Teleports you to your eye position
+    usage: /<command>

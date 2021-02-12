@@ -1,4 +1,4 @@
-package saf.AuthPlugin.commands;
+package saf.Auth.commands;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;

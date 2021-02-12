@@ -1,10 +1,11 @@
-package saf.AuthPlugin;
+package saf.Auth;
 
 import org.bukkit.Bukkit;
 import org.bukkit.WorldCreator;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.plugin.java.JavaPlugin;
-import saf.AuthPlugin.commands.CommandTeleportMe;
+
+import saf.Auth.commands.CommandTeleportMe;
 
 public class Main extends JavaPlugin {
 	FileConfiguration config = getConfig();
